@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chan Myae Oo
-- 👀 I’m passionate about learning Artificial Intelligence Technology and I enjoy making robotic projects.I am active when I'm doing projects and like working with a team.
+- 👀 I’m passionate about learning Artificial Intelligence Technology and enjoy making robotic projects.
 - 🌱 I’m currently learning AI/Machine Learning/Deep Learning
 - ✨ Now,I'm working as Junior AI Developer at Promes Myanmar
 
